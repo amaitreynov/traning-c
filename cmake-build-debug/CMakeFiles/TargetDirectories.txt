@@ -1,0 +1,3 @@
+/home/etudiant/CLionProjects/snaked/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/etudiant/CLionProjects/snaked/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/etudiant/CLionProjects/snaked/cmake-build-debug/CMakeFiles/snaked.dir

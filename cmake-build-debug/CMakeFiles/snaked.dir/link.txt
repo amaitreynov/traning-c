@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/snaked.dir/main.c.o  -o snaked 

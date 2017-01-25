@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/etudiant/CLionProjects/snaked/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/types.h
+-
+errno.h
+-
+fcntl.h
+-
+sys/wait.h
+-
+termios.h
+-
+time.h
+-
+sys/time.h
+-
+util.h
+/home/etudiant/CLionProjects/snaked/util.h
+
+/home/etudiant/CLionProjects/snaked/util.h
+
